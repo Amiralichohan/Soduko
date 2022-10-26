@@ -107,34 +107,34 @@ class F_Level2 implements ActionListener {
 
         field[1].setText("1");
         field[1].setEnabled(false);
-        field[1].setDisabledTextColor(new Color(123, 50, 250));
+        field[1].setDisabledTextColor(new Color(15, 156, 123));
         field[4].setText("4");
         field[4].setEnabled(false);
-        field[4].setDisabledTextColor(new Color(123, 50, 250));
+        field[4].setDisabledTextColor(new Color(15,156, 123));
         field[5].setText("3");
         field[5].setEnabled(false);
-        field[5].setDisabledTextColor(new Color(123, 50, 250));
+        field[5].setDisabledTextColor(new Color(15, 156, 123));
         field[8].setText("4");
         field[8].setEnabled(false);
-        field[8].setDisabledTextColor(new Color(123, 50, 250));
+        field[8].setDisabledTextColor(new Color(15, 156,123));
         field[11].setText("3");
         field[11].setEnabled(false);
-        field[11].setDisabledTextColor(new Color(123, 50, 250));
+        field[11].setDisabledTextColor(new Color(15, 156, 123));
         field[12].setText("2");
         field[12].setEnabled(false);
-        field[12].setDisabledTextColor(new Color(123, 50, 250));
+        field[12].setDisabledTextColor(new Color(15, 156, 123));
         field[16].setText("4");
         field[16].setEnabled(false);
-        field[16].setDisabledTextColor(new Color(123, 50, 250));
+        field[16].setDisabledTextColor(new Color(15, 156, 123));
         field[19].setText("5");
         field[19].setEnabled(false);
-        field[19].setDisabledTextColor(new Color(123, 50, 250));
+        field[19].setDisabledTextColor(new Color(15,156, 123));
         field[20].setText("5");
         field[20].setEnabled(false);
-        field[20].setDisabledTextColor(new Color(123, 50, 250));
+        field[20].setDisabledTextColor(new Color(15, 156, 123));
         field[24].setText("3");
         field[24].setEnabled(false);
-        field[24].setDisabledTextColor(new Color(123, 50, 250));
+        field[24].setDisabledTextColor(new Color(15, 156, 123));
 
     }
 
