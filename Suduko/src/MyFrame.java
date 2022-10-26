@@ -9,7 +9,7 @@ public class MyFrame extends JFrame {
     this.setTitle(" Soduko Game by Geeks pro");
     ImageIcon image = new ImageIcon("Logo2.png");
     this.setIconImage(image.getImage());
-    this.getContentPane().setBackground(new Color(123, 50, 250));
+    this.getContentPane().setBackground(new Color(15, 156, 123));
     this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     this.setVisible(true);
   }
