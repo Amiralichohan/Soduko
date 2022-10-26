@@ -104,22 +104,22 @@ class F_Level3 implements ActionListener {
 
         field[0].setText("4");
         field[0].setEnabled(false);
-        field[0].setDisabledTextColor(new Color(123, 50, 250));
+        field[0].setDisabledTextColor(new Color(15, 156, 123));
         field[1].setText("2");
         field[1].setEnabled(false);
-        field[1].setDisabledTextColor(new Color(123, 50, 250));
+        field[1].setDisabledTextColor(new Color(15, 156, 123));
         field[5].setText("3");
         field[5].setEnabled(false);
-        field[5].setDisabledTextColor(new Color(123, 50, 250));
+        field[5].setDisabledTextColor(new Color(15, 156, 123));
         field[19].setText("4");
         field[19].setEnabled(false);
-        field[19].setDisabledTextColor(new Color(123, 50, 250));
+        field[19].setDisabledTextColor(new Color(15, 156, 123));
         field[23].setText("2");
         field[23].setEnabled(false);
-        field[23].setDisabledTextColor(new Color(123, 50, 250));
+        field[23].setDisabledTextColor(new Color(15,156, 123));
         field[24].setText("1");
         field[24].setEnabled(false);
-        field[24].setDisabledTextColor(new Color(123, 50, 250));
+        field[24].setDisabledTextColor(new Color(15,156, 123));
 
     }
 
